@@ -106,7 +106,7 @@ const Skills = () => {
                     <Typography component={'span'} paragraph >
                         <Box fontFamily="Lato" m={1} className={classes.description}>
                             <GlitchEffect>
-                                J'adore programmer depuis 2012, j'ai d'abord commencé par faire des petits projets "CLI" à des fins personnels (fait en Batch ou Visual Basic),
+                                J'adore programmer depuis 2012, j'ai d'abord commencé par faire des petits projets "CLI" à des fins personnelles (fait en Batch ou Visual Basic),
                                 puis j'ai decouvert Python ce qui m'as permis de faire des projets personnels plus complexes. J'ai recemment debuté le développement web, j'adore ça!
                             </GlitchEffect>
                         </Box>
